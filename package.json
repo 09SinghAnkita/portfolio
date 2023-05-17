@@ -1,4 +1,5 @@
 {
+  "homepage": "https://09SinghAnkita.github.io/portfolio",
   "name": "react-portfolio-website",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
     "emailjs-com": "^3.2.0",
+    "gh-pages": "^5.0.0",
     "gsap-trial": "^3.11.0",
     "loaders.css": "^0.1.2",
     "react": "^18.2.0",
@@ -28,7 +30,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
