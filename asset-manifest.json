@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c53899c5.css",
+    "main.js": "/portfolio/static/js/main.dd5de137.js",
+    "static/media/picturer.png": "/portfolio/static/media/picturer.6e57f25a888a077baa0f.png",
+    "static/media/Resume-Ankita.pdf": "/portfolio/static/media/Resume-Ankita.c0c83a93fa954d60a757.pdf",
+    "static/media/cart.jpg": "/portfolio/static/media/cart.a57121be5fbec3479123.jpg",
+    "static/media/note.jpg": "/portfolio/static/media/note.209416138788a59fb0d7.jpg",
+    "static/media/ecom.jpg": "/portfolio/static/media/ecom.b551339556b731392658.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.c53899c5.css.map": "/portfolio/static/css/main.c53899c5.css.map",
+    "main.dd5de137.js.map": "/portfolio/static/js/main.dd5de137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53899c5.css",
+    "static/js/main.dd5de137.js"
+  ]
+}
