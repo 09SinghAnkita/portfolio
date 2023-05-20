@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG from './../../assets/ecom.jpg'
 import note from './../../assets/note.jpg'
 import shop from "./../../assets/cart.jpg"
+import pic from "./../../assets/pic.jpg"
 
 
 const data = [
@@ -20,10 +21,10 @@ const data = [
   demo: 'https://shopping-cart-pozu.onrender.com/'
 },
 { id:3,
-  image: IMG,
-  title: 'E-Commerce Site',
-  github: 'https://github.com',
-  demo: 'https://dribble.com'
+  image: pic,
+  title: 'Portfolio Site',
+  github: 'https://github.com/09SinghAnkita/portfolio',
+  demo: 'https://09singhankita.github.io/portfolio'
 },
 ]
 
